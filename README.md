@@ -18,10 +18,10 @@ The data includes information about crimes,socio-economic factors that affect cr
 
 ### Group C Members 
 
-* Canh Thanh Nguyen (45551936)
-* Jarred Reilly (43264204)
-* Soham Sarfare (45812748)
-* Sukhmani Arora (45574715)
+* Canh Thanh Nguyen
+* Jarred Reilly
+* Soham Sarfare
+* Sukhmani Arora
 
 ## Summary
 
